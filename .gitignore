@@ -1,0 +1,4 @@
+*obj
+*bin
+*.svn
+Dependencies/Microsoft.Silverlight.Testing.dll
